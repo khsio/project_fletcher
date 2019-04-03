@@ -14,5 +14,5 @@ The problem that I am trying to solve is to apply Natural Language Processiong (
 Secondary goal is to perform a supervised learning problem with the Rating column from the dataset to classify good and bad reviews.  
 
 ## Getting Started
-* `notebooks` - My code for exploratory data analysis, topic modeling, clustering and classifical models are in this folder.   
+* `notebooks` - My code for exploratory data analysis, topic modeling, clustering and classification models are in this folder.   
 * `presentation` - This is the deck that I used to present in [Metis](https://www.thisismetis.com/). For references, please refer to the reference page in my deck.
